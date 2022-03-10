@@ -1,3 +1,8 @@
+- First Fork This Repo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dadofdavils/LEGENDBOT)
+
+
 <h1 align="center">
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
